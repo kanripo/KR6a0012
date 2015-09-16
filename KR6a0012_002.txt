@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:28:01.043495
+#+DATE: 2015-08-30 19:28:02.208547
 #+TITLE: 大集法門經
 #+PROPERTY: CBETA_ID T01n0012
 #+PROPERTY: ID KR6a0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 012
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6a0012_T_002-0230a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說大集法門經》卷下¶
+《佛說大集法門經》卷下¶
 ¶
 西天譯經三藏朝奉大夫試光祿¶
 卿傳法大師賜紫臣施護奉　詔譯¶
@@ -316,7 +315,7 @@
 所謂觀如訖哩瑟拏阿迦羅華，及黃色衣，於¶
 二分黃中，皆是黃顯黃現黃光，廣多清淨，作¶
 是觀時，起勝知見，是為勝處；內無色想觀外¶
-色赤，所謂觀如滿度𡁠嚩迦華，及赤色衣，¶
+色赤，所謂觀如滿度[口*爾]嚩迦華，及赤色衣，¶
 於二分赤中，皆是赤顯赤現赤光，廣多清¶
 淨，作是觀時，起勝知見，是為勝處；內無色¶
 想觀外色白，所謂觀如白色華，及白色衣，¶
