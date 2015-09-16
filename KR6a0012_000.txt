@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大集法門經
+#+DATE: 2015-08-30 19:28:01.231914
+#+PROPERTY: JUAN 0
